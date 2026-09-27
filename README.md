@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sobre 👋
 
-<!--
-**enznak/enznak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Me chamo ***Enzo***, sou um estudante de Ciência da Computação curioso por novas tecnologias e faminto por aprender e, principalmente, botar em prática.
 
-Here are some ideas to get you started:
+📚 Por aqui, compartilho projetos, estudos e um pouco da minha evolução como desenvolvedor. Ainda tenho muito a aprender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work in Progress 🛠️:
+
+[![Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=lua,nodejs,py,java,react)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=aws,docker,r,mysql)](https://skillicons.dev)
