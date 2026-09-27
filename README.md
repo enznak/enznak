@@ -1,10 +1,11 @@
 ## Sobre 👋
 
-💻 Me chamo ***Enzo***, sou um estudante de Ciência da Computação curioso por novas tecnologias e faminto por aprender e, principalmente, botar em prática.
+> [!NOTE]
+> 💻 Me chamo ***Enzo***, sou um estudante de Ciência da Computação curioso por novas tecnologias e faminto por aprender e, principalmente, botar em prática.
+> 
+> 📚 Por aqui, compartilho projetos, estudos e um pouco da minha evolução como desenvolvedor. Ainda tenho muito a aprender.
 
-📚 Por aqui, compartilho projetos, estudos e um pouco da minha evolução como desenvolvedor. Ainda tenho muito a aprender.
-
-## Work in Progress 🛠️:
+## Em Desenvolvimento 🛠️:
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
