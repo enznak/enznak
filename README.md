@@ -1,8 +1,8 @@
 ## Sobre 👋
 
-> 💻 Me chamo ***Enzo***, sou um estudante de Ciência da Computação curioso por novas tecnologias e faminto por aprender e, principalmente, botar em prática.
-> 
-> 📚 Por aqui, compartilho projetos, estudos e um pouco da minha evolução como desenvolvedor. Ainda tenho muito a aprender.
+💻 Me chamo ***Enzo***, sou um estudante de Ciência da Computação curioso por novas tecnologias e faminto por aprender e, principalmente, botar em prática.
+
+📚 Por aqui, compartilho projetos, estudos e um pouco da minha evolução como desenvolvedor. Ainda tenho muito a aprender.
 
 ## Em Desenvolvimento 🛠️:
 
