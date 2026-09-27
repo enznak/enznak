@@ -6,8 +6,8 @@
 
 ## Em Desenvolvimento 🛠️:
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-[![Skills](https://skillicons.dev/icons?i=lua,nodejs,py,java,react)](https://skillicons.dev)
-
-[![Skills](https://skillicons.dev/icons?i=aws,docker,r,mysql)](https://skillicons.dev)
+> [![Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+>
+> [![Skills](https://skillicons.dev/icons?i=lua,nodejs,py,java,react)](https://skillicons.dev)
+>
+> [![Skills](https://skillicons.dev/icons?i=aws,docker,r,mysql)](https://skillicons.dev)
